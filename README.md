@@ -2,7 +2,7 @@
 Prédiction de l'attrition client sur le dataset Telco (7043 clients)
 
 # Technologies
-Python, Scikit-learn, XGBoost, Pandas, NumPy, SMOTE, Matplotlib, Seaborn.
+Python, Scikit-learn, Gradient Boosting , Pandas, NumPy, SMOTE, Matplotlib, Seaborn.
 #  Modèles utilisés
 - Random Forest
 - Gradient Boosting
